@@ -4,7 +4,6 @@ Vehicle Builder is an application that allows you to explore different vehicle o
 ## Table of Context
   - [Installation](#installation)
   - [Usage](#usage)
-  - [License](#license)
   - [Demonstration](#demonstration)
 ## Installation
 You can run npm i to install all dependencies. Keep in mind, node.js is required to run this application
@@ -18,9 +17,10 @@ If you select to create your own car:
 - You will be able to print a recipt of your car with all it's details
 If you choose to select an existing vehicle:
 - You will be given the specifications of a pre-exsisting vehicle 
+## Demonstration
 This Screenshot shows how it looks to create your own car:
-(./images/vehicle-project-demo-img.png)
+-./images/vehicle-project-demo-img.png
 This Gif shows how it looks to render the application
-(./images/vehicle-project-demo.gif)
+-./images/vehicle-project-demo.gif
 
 
