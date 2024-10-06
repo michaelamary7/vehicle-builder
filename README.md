@@ -18,10 +18,10 @@ If you select to create your own car:
 If you choose to select an existing vehicle:
 - You will be given the specifications of a pre-exsisting vehicle 
 ## Demonstration
-This Screenshot shows how it looks to create your own car:
-- ![A screenshot of the command line of creating a car](../images/vehicle-project-demo-img.png)
-This Gif shows how it looks to render the application
-- ![A gif of the command line of creating a car](../images/vehicle-project-demo.gif)
+Screenshot that shows how it looks to create your own car:
+- ![A screenshot of the command line of creating a car](./images/vehicle-project-demo-img.png)
+Gif that shows how it looks to render the application
+- ![A gif of the command line of creating a car](./images/vehicle-project-demo.gif)
 
 
 
